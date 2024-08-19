@@ -1,0 +1,31 @@
+body{
+    
+    background-color: azure;
+    margin: 0%;
+    margin-top: auto;
+    padding: auto;
+    
+}
+.mainhead{
+    text-align: left;
+    text-decoration: solid;
+    font-style: italic;
+}
+.dbody{
+    width: 80%;
+    max-width: 1200px;
+    padding: 20px;
+    margin: 10px;
+    margin-left: 10% ;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk;
+    
+    
+}
+.dbody.image{
+    align-items: center;
+    text-align: center;
+}
